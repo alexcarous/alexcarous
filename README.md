@@ -1,6 +1,6 @@
 ### Hello, there! I'm Alex. 👋
 
-<img src="spin-me-up.gif" align="right" alt="Spin me right round." />
+<img src="https://raw.githubusercontent.com/alexcarous/alexcarous/master/spin-me-up.gif" align="right" alt="Spinner" />
 
 My aim is to have an impactful career that benefits both my home country 🇺🇸 and the wider world 🌍, particularly the developing world.
 
